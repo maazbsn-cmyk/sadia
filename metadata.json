@@ -1,0 +1,10 @@
+{
+  "name": "Remix Lumina Design",
+  "description": "AI Home Interior Designer \u0026 Spatial Room Analyzer",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
